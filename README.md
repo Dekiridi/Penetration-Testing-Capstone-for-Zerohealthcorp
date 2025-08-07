@@ -112,8 +112,8 @@ This project demonstrates:
 If you're in the cybersecurity industry, healthcare tech, or looking for passionate professionals ready to secure critical systems — I’d love to connect!
 
 📫 **Contact Me**  
-- GitHub: [YourUsername](https://github.com/YourUsername)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)
+- Email: [YourUsername](https://github.com/YourUsername)  
+- LinkedIn: [LinkedIn Project](https://www.linkedin.com/posts/kiridi-david_zerohealth-corp-penetration-testing-report-activity-7359252264093425664-uSr2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1dUPEByIj2cRbQAPsn4QcGmvpGWifXhi8)
 
 ---
 
